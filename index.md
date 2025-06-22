@@ -13,10 +13,7 @@
 
 ---
 
-[链接到 Google (测试)](https://google.com)  
-[锚点跳转](#图片测试)  
-<fake@test.com>  
-https://autolink-test.com
+[链接到 必应 (测试)](https://bing.com)  
 
 ---
 
