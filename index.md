@@ -51,17 +51,10 @@
 ```python
 # 代码块测试
 def test():
-    print("Hello 测试!")
+    print("曼波")
     return True
 ``` 
 
-
----
-
-数学公式 (GitHub 需安装 MathJax 插件):
-$$
-f(x) = x^2 + \text{测试}
-$$
 
 ---
 
