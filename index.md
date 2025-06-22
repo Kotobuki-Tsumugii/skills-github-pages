@@ -48,18 +48,13 @@
 
 ---
 
-` ` `python
+```python
 # 代码块测试
 def test():
     print("Hello 测试!")
     return True
-` ` ` 
-（实际使用时请移除 ` ` ` 中间的空格）
+``` 
 
----
-
-<a name="图片测试"></a>
-![替代文字-test](https://via.placeholder.com/150?text=图片测试)
 
 ---
 
